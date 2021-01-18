@@ -357,7 +357,7 @@ function getProjectURL() {
 	var localhostPaht = curPath.substring(0, pos);
 	var projectName = pathName.substring(0, pathName.substr(1).indexOf('/') + 1);
 	var urlpath = localhostPaht + projectName;
-	return "http://localhost:8030/";
+	return "http://www.read8686.com/PersonalArticle/";
 }
 
 function initEditor() {
