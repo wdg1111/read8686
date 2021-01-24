@@ -69,7 +69,7 @@ var _rootPath = (function () {
 		'../dist/css/font-awesome.min.css',
 		'../dist/css/ionicons.min.css',
 		'../dist/css/AdminLTE.min.css',
-		'../dist/css/skins/_all-skins.min.css'
+		'https://81.70.85.14:8443/dist/css/skins/_all-skins.min.css'
 	];
 	SrcBoot.output(arr);
 	win.SrcBoot = SrcBoot;
